@@ -1,5 +1,5 @@
 # woocommerce_maximum_discount
-How to create a customize Maximum Discount on Woocommerce Coupon
+How to create a customize Maximum Discount on Woocommerce
 
 I initially thought that this function would be integrated into WooCommerce soon. However, it appears that this hasn't happened, as evidenced by numerous developers searching for this query on Stack Overflow.
 
